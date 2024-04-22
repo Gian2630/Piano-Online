@@ -13,7 +13,7 @@ function ToggleImage() {
     <div className="container">
   {showImage && (
     <div className="image-container">
-      <img src="/public/imagenes/teclado.png" alt="Teclado de referencia" />
+      <img src="imagenes/teclado.png" alt="Teclado de referencia" />
     </div>
   )}
   <div className="button-container">
