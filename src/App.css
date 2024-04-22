@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-image: url('/public/imagenes/fondo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0; /* Esto elimina el margen predeterminado del body */
+  padding: 0; /* Esto elimina el relleno predeterminado del body */
+}
+
+
